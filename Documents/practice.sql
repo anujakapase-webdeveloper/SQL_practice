@@ -20,3 +20,10 @@ INSERT INTO employees (emp_id, emp_name, department, salary, hire_date) VALUES
 
 
 SELECT * FROM employees;
+
+/*"emp_id","emp_name",  "department",   "salary",   "hire_date"
+   1,       "Aman Verma",  "IT",        "68500.00",  "2025-05-12"
+   2,       "Priya Sharma","HR",        "51500.00",  "2026-02-15"
+   3,       "Rahul Singh", "Finance",   "59500.00",  "2024-11-20"
+   4,       "Neha Gupta",  "IT",        "72000.00",  "2026-01-10"
+   5,       "Amit Kumar",  "HR",        "53000.00",  "2025-08-05"*/
